@@ -2,7 +2,7 @@
 This project, **invoice-generator**, is a Node.js app for easy invoice generation. Built with Express.js, it includes user authentication, product management, and quotation generation. Structured for maintainability and scalability, it leverages modern web development practices to provide a robust invoicing solution.
 ### Invoice Generator
 
-This is a full-stack web application built using Node.js, Express.js, MongoDB, and NestJS. The application allows users to create and download invoices in PDF format.
+This is a full-stack web application built using Node.js, Express.js,and MongoDB. The application allows users to create and download invoices in PDF format.
 
 ## Tech Stack
 
