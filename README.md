@@ -8,7 +8,6 @@ This is a full-stack web application built using Node.js, Express.js, MongoDB, a
 
 - **NodeJS**
 - **ExpressJS**
-- **NestJS**
 - **MongoDB**
 - **Puppeteer** (for PDF generation)
 - **Postman** (for API testing)
